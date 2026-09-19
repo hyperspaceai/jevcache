@@ -121,4 +121,4 @@ publishers can charge for a cache.
 
 ## License
 
-jevcache is **free to use**. This repository distributes the CLI binary and docs; the source is maintained privately. Not affiliated with TypeSafe (Jev is their model).
+jevcache is **free to use**. This repository distributes the CLI binary and docs. Not affiliated with TypeSafe (Jev is their model).
